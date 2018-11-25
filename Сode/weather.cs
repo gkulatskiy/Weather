@@ -17,6 +17,7 @@ namespace Weather
 
         public string icon;
 
+        //Загружаем иконку с папки.
         public  Bitmap Icon
         {
             get

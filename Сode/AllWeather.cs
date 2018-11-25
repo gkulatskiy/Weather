@@ -9,6 +9,7 @@ namespace Weather
 {
     class AllWeather
     {
+        //Объявляем переменные. Они будут обрабатывать информацию, которую загружаем с сайта. 
         public coord coord;
 
         public weather[] weather;

@@ -8,6 +8,7 @@ namespace Weather
 {
     class main
     {
+        //Обрабатываем информацию о температуре.
         private double _temp;
 
         public double temp
