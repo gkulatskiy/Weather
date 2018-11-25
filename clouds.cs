@@ -8,7 +8,6 @@ namespace Weather
 {
     class clouds
     {
-      //Объявление функции
         public double all;
     }
 }
